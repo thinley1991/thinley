@@ -25,6 +25,11 @@ changinging the mode of the file
   * cd / = go to the root directory
   * pwd = shows the present working Directory
   
+  * Different types of listing in files
+  ** ls = list the contents of the directory
+  ** ls -a = show all files including the hidden ones
+  ** ls -l = gives you a long listing
+
 For further Details:
 
 please go to the website [click here] (http://linuxcommand.org/)
