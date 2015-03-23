@@ -20,12 +20,10 @@ changinging the mode of the file
 
 ##Changing Driectory Commands:
   * cd= change directory
-  
   * cd ..= go to the parent directory
-  
-  3. cd .= Stay on the current directory
-  
-  4. cd -= go to the previous directory
-  
-  5. cd / = go to the root directory
+  * cd .= Stay on the current directory
+  * cd -= go to the previous directory
+  * cd / = go to the root directory
+  * pwd = shows the present working Directory
+  ### for further Details please go to the website [click here] (http://linuxcommand.org/)
   
