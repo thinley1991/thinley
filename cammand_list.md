@@ -24,7 +24,7 @@ copy the files
 remove the file
 
 ***chmod*** 
-changinging the mode of the file
+changing the mode of the file
 
 ###Changing Driectory Commands:
   * cd= change directory
