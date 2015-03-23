@@ -19,9 +19,9 @@ remove the file
 changinging the mode of the file
 
 ##Changing Driectory Commands:
-  1. cd= change directory
+  * cd= change directory
   
-  2. cd ..= go to the parent directory
+  * cd ..= go to the parent directory
   
   3. cd .= Stay on the current directory
   
