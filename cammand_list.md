@@ -17,3 +17,11 @@ remove the file
 
 ***chmod*** 
 changinging the mode of the file
+
+##Changing Driectory Commands:
+  *cd change directory
+  *cd .. go to the parent directory
+  *cd . Stay on the current directory
+  *cd - go to the previous directory
+  *cd / go to the root directory
+  
