@@ -1,5 +1,4 @@
-##This is created by Mr Thinley Jamtsho
-###B.Sc computer Science Student.
+###This is created by Mr Thinley Jamtsho
 ***mkdir***
 making a new directory
 
@@ -18,7 +17,7 @@ remove the file
 ***chmod*** 
 changinging the mode of the file
 
-##Changing Driectory Commands:
+###Changing Driectory Commands:
   * cd= change directory
   * cd ..= go to the parent directory
   * cd .= Stay on the current directory
