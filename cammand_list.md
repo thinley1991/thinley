@@ -25,10 +25,10 @@ changinging the mode of the file
   * cd / = go to the root directory
   * pwd = shows the present working Directory
   
-  * Different types of listing in files
-  ** ls **= list the contents of the directory
-  ** ls **-a = show all files including the hidden ones
-  ** ls **-l = gives you a long listing
+###Different types of listing in files
+  1.1 ls = list the contents of the directory
+  1.4 ls **-a = show all files including the hidden ones
+  1.3 ls **-l = gives you a long listing
 
 For further Details:
 
