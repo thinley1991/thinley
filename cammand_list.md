@@ -26,9 +26,9 @@ changinging the mode of the file
   * pwd = shows the present working Directory
   
   * Different types of listing in files
-  ** ls = list the contents of the directory
-  ** ls -a = show all files including the hidden ones
-  ** ls -l = gives you a long listing
+  ** ls **= list the contents of the directory
+  ** ls **-a = show all files including the hidden ones
+  ** ls **-l = gives you a long listing
 
 For further Details:
 
