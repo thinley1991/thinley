@@ -25,6 +25,8 @@ changinging the mode of the file
   * cd -= go to the previous directory
   * cd / = go to the root directory
   * pwd = shows the present working Directory
+  
 For further Details:
+
 please go to the website [click here] (http://linuxcommand.org/)
   
