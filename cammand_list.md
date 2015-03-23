@@ -19,9 +19,13 @@ remove the file
 changinging the mode of the file
 
 ##Changing Driectory Commands:
-  *cd change directory
-  *cd .. go to the parent directory
-  *cd . Stay on the current directory
-  *cd - go to the previous directory
-  *cd / go to the root directory
+  1. cd change directory
+  
+  2. cd .. go to the parent directory
+  
+  3. cd . Stay on the current directory
+  
+  4. cd - go to the previous directory
+  
+  5. cd / go to the root directory
   
