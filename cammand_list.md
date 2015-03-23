@@ -1,5 +1,5 @@
-This is created by Mr Thinley Jamtsho
-###B.Sc computer Science Student.
+***This is created by Mr Thinley Jamtsho
+#B.Sc computer Science Student.
 ***mkdir***
 making a new directory
 
