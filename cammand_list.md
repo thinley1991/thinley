@@ -2,6 +2,15 @@
 ***mkdir***
 making a new directory
 
+***rmdir***
+removes a directory
+
+***rmdir -rf***
+forcefully removes the directory
+
+***top***
+list the most cpu using process activities
+
 ***cd***
 changing the directory
 
@@ -27,8 +36,10 @@ changinging the mode of the file
   
 ###Different types of listing in files
   1.1 ls = list the contents of the directory
-  1.4 ls **-a = show all files including the hidden ones
-  1.3 ls **-l = gives you a long listing
+
+  1.2 ls -a = show all files including the hidden ones
+  
+  1.3 ls -l = gives you a long listing
 
 For further Details:
 
